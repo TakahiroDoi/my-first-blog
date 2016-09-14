@@ -1,0 +1,11 @@
+*.pyc
+__pycachs__
+myvenv
+db.sqlite3
+/static
+.DS_Store
+mynotes.txt
+mynotes.txt~
+shellcommands.txt
+shellcommands.txt~
+shellcommands.txt.swp
